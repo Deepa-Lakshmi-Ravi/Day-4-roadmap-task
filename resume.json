@@ -1,0 +1,69 @@
+{
+    "basics" : {
+      "name": "Deepalakshmi R",
+      "email": "deeparavi2403@gmail.com",
+      "phone": "9566821649",
+      "location": {
+        "address": "Periyakallapadi Village",
+        "postalCode": "606811",
+        "city": "Tiruvannamalai",
+        "countryCode": "India",
+        "region": "Tamilnadu"
+      }
+    },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "deviravichandren02@gmail.com",
+        "url": "https://www.linkedin.com/in/deepalakshmi-ravichandran-535504236"
+      }],
+    "education": [{
+        "institution": "University College of Engineering , BIT Campus",
+        "course/degree": "Bachelor of Technology",
+        "area": "Information Technology",
+        "grade/score": "7.93",
+        "duration": "2019-2023"
+        "location": "Tiruchirapalli"
+      }],
+      "skills": [{
+        "name": "Web Development",
+        "level": "Beginner",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+        "name": "Programming",
+        "level": "Medium",
+        "keywords":[
+            "C",
+            "Python",
+            "Oops(Basics)"
+        ]
+        "name":"Designing",
+        "level":"Medium",
+        "keywords":[
+            "UI&UX(basics)",
+            "web design"
+        ]
+      }],
+      "languages": [{
+        "language 1": "English",
+        "fluency": "Native speaker",
+        "language 2":"Tamil",
+        "fluency": "Native speaker"
+
+      }],
+      "certificates": [{
+        "name": "Android development Workshop Certificate",
+        "issuer": "MIT Chennai",
+      }],
+      "projects": [{
+        "name": "BLOOD DONATION APPLICATION(Mini Project)",
+        "description": "The main goal of this project is to create android application in which the blood donar are available easily at required time.",
+        "name": "PARKINSON DISEASE PREDICTION USING SPIRAL IMAGES(Main Project)",
+        "description": "A development of web application for early prediction of the disease by classifying the spiral images of healthy and diseased subjects in an efficient manner."
+}],
+"interests": [{
+    "name": "Video Editing , Photoshop"
+  }]
+}
